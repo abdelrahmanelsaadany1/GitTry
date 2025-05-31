@@ -11,10 +11,9 @@ This is a simple HTML page displaying a list of team members.
 ## Team Members Included
 
 - Abdelrahman salah
-- Abdelrahman merge
 - AbdelRahman Khalil
 - Rodina Elfeky
-- AbdelRahman Khalil's Branch
+
 
 ## Files
 
