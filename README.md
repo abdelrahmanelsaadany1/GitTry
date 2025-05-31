@@ -25,4 +25,6 @@ This is a simple HTML page displaying a list of team members.
 1. Open index.html in any web browser.
 2. Modify the list items to update team members.
 
+## Usage 
+live demo : https://abdelrahmanelsaadany1.github.io/GitTry/
 " > README.md
